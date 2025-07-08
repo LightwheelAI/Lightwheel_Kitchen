@@ -61,8 +61,6 @@ To get started with Isaac Sim, follow the official setup guide:
 - If any textures appear missing, ensure the `texture/` folder remains in the same directory hierarchy.
 
 
-
-
 Citation
 If you use Lightwheel Kitchen in your research or projects, please cite it as follows:
 BibTeX
@@ -83,10 +81,5 @@ Plain Text
 Lightwheel (2025). Lightwheel Kitchen: 3D Kitchen Asset Collection for NVIDIA Isaac Sim. Version v1. Available at: https://github.com/LightwheelAI/Lightwheel_Kitchen
 
 License: This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
-
-
----
-
-Happy simulating!
 
 
