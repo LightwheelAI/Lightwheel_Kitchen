@@ -47,6 +47,7 @@ Download by clicking
 
 This project requires **NVIDIA Isaac Sim** and a compatible system. Recommended configuration:
 
+- x86_64
 - Ubuntu 20.04 or 22.04 
 - NVIDIA RTX 30XX / 40XX series GPU (minimum 16GB VRAM)
 - 64GB RAM or more
