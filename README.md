@@ -7,6 +7,16 @@ This folder contains a complete kitchen room scene designed for simulation and i
 Join us, contribute, and help shape the future of AI and robotics.
 For questions or collaboration, contact Frank Chen at ming.chen@lightwheel.ai.
 
+## version 
+
+### v1.1 (Latest)
+- Fixed various warnings
+- Resolved pot collision issues to prevent clipping through objects
+- Improved overall stability and performance
+
+### v1.0
+- Initial release with complete kitchen scene
+- Modular assets for Isaac Sim compatibility
 
 ## 📁 Folder Structure
 
@@ -35,7 +45,7 @@ For questions or collaboration, contact Frank Chen at ming.chen@lightwheel.ai.
 
 Download by clicking
 
-[DOWNLOAD_LINK](https://storage.googleapis.com/sim-cloud-paltform-bucket-file-upload-001/upload-file/Lightwheel_Kitchen.zip)
+[DOWNLOAD_LINK](https://github.com/LightwheelAI/Lightwheel_Kitchen/releases/download/v1.1/Lightwheel_Kitchen.zip)
 
 
 1. Open **Isaac Sim**.
