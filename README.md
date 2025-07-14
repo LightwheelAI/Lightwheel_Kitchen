@@ -45,7 +45,7 @@ For questions or collaboration, contact Frank Chen at ming.chen@lightwheel.ai.
 
 Download by clicking
 
-[DOWNLOAD_LINK](https://github.com/LightwheelAI/Lightwheel_Kitchen/releases/download/v1.1/Lightwheel_Kitchen.zip)
+[DOWNLOAD_LINK](https://storage.googleapis.com/sim-cloud-paltform-bucket-file-upload-001/upload-file/Lightwheel_Kitchen-20250713.zip)
 
 
 1. Open **Isaac Sim**.
